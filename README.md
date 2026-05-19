@@ -10,7 +10,7 @@
   &nbsp;
   <a href="https://huggingface.co/datasets/wwzeng/RecRM-Bench"><img src="https://img.shields.io/badge/🤗%20HuggingFace-Dataset-yellow?style=flat" alt="Dataset"></a>
   &nbsp;
-  <a href="https://buycar-arb.github.io/RecRM-Bench/"><img src="https://img.shields.io/badge/🌐%20Project-Page-blue?style=flat" alt="Project Page"></a>
+  <a href="http://10.146.225.242:8084/index.html"><img src="https://img.shields.io/badge/🌐%20Project-Page-blue?style=flat" alt="Project Page"></a>
 </p>
 
 
