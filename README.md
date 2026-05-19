@@ -1,15 +1,3 @@
----
-license: apache-2.0
-language:
-- zh
-- en
-tags:
-- agentic recommender system
-- reward-modeling
-- reinforcement-learning
-viewer: false
----
-
 <h1 align="center">
   <img src="assets/RecRM-Bench_icon.png" height="40" style="vertical-align:middle; margin-right:8px;">
   RecRM-Bench: Benchmarking Multidimensional Reward Modeling for Agentic Recommender Systems
