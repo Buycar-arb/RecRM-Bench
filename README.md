@@ -57,10 +57,6 @@ Performance of state-of-the-art models (zero-shot) on RecRM-Bench:
 
 > Bold values in the baseline rows indicate the **worst** performing model per column. Bold values in the Ours row indicate **best** overall performance.
 
-## 📜 License
-
-This project is licensed under the Apache 2.0 License.
-
 ## 📝 Citation
 
 If you find this work useful, please cite our paper:
